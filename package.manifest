@@ -1,0 +1,9 @@
+{
+    "name": "WhiteLantern",
+    "package_path" : "http://localhost/WhiteLantern/WhiteLantern.zip",
+    "version": "1.0",
+    "developer": {
+        "name": "Giovanny Andres Gongora Granada",
+        "url": "http://github.com/Gioyik"
+    }
+}
